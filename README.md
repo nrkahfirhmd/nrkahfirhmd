@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 I enjoy learning and building things that solve real-world problems, especially AI-powered products. Currently completing a B.S. in Computer Science while building production-grade AI applications.
 
+<!-- ## 📊 GitHub Stats -->
+
 ## 🫱🏻‍🫲🏽 Find Me Here
 
 <p align="left">
@@ -37,3 +39,5 @@ Open to discussions about AI, software engineering, system design, and cool side
 ---
  
 *Last updated: Jun 2026*
+
+[![ProfileViews](https://komarev.com/ghpvc/?username=nrkahfirhmd&color=green&style=for-the-badge)](https://komarev.com/ghpvc/?username=nrkahfirhmd)
